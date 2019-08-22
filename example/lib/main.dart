@@ -29,7 +29,7 @@ class HomePage extends StatelessWidget {
         mainAxisSize: MainAxisSize.min,
         children: <Widget>[
           Text(
-            'This is a blank pub for checking the health of https://pub.flutter-io.cn',
+            'This is a blank package for checking the health of https://pub.flutter-io.cn',
             textAlign: TextAlign.center,
             style: TextStyle(fontSize: 15, fontWeight: FontWeight.w500),
           ),
@@ -37,7 +37,7 @@ class HomePage extends StatelessWidget {
             height: 20,
           ),
           Text(
-            'Please *do not* use this packages in your flutter project',
+            'Please *do not* use this package in your flutter project',
             textAlign: TextAlign.center,
             style: TextStyle(fontSize: 15, fontWeight: FontWeight.w700),
           ),
@@ -48,10 +48,7 @@ class HomePage extends StatelessWidget {
             Text(
               'This package works ok',
               textAlign: TextAlign.center,
-              style: TextStyle(
-                  fontSize: 15,
-                  color: Colors.green,
-                  fontWeight: FontWeight.w500),
+              style: TextStyle(fontSize: 15, color: Colors.green, fontWeight: FontWeight.w500),
             )
         ],
       )),
