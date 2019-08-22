@@ -1,7 +1,7 @@
 # pub_cn_mirrors_health_check
 
 This is a blank pub for checking the health of https://pub.flutter-io.cn
-Please *do not* use this packages for your flutter project
+Please *do not* use this packages in your flutter project
 
 ## Getting Started
 
