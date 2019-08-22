@@ -1,6 +1,7 @@
 # example
 
 This is the example of a blank package for checking the health of https://pub.flutter-io.cn
+
 Please *do not* use this blank package in your flutter project
 
 ## Getting Started
