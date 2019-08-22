@@ -1,6 +1,6 @@
 name: pub_cn_mirrors_health_check
 description: This is a blank package for checking the health of https://pub.flutter-io.cn
-version: 1.0.3
+version: 1.0.4
 author: Realank <Realank@gmail.com>
 homepage: https://pub.flutter-io.cn
 
