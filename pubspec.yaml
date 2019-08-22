@@ -1,8 +1,8 @@
 name: pub_cn_mirrors_health_check
-description: A new Flutter package.
-version: 0.0.1
-author:
-homepage:
+description: This is a blank pub for checking the health of https://pub.flutter-io.cn
+version: 1.0.0
+author: Realank <Realank@126.com>
+homepage: https://pub.flutter-io.cn
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
