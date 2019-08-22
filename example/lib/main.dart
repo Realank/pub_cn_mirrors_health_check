@@ -48,7 +48,10 @@ class HomePage extends StatelessWidget {
             Text(
               'This package works ok',
               textAlign: TextAlign.center,
-              style: TextStyle(fontSize: 15, color: Colors.green, fontWeight: FontWeight.w500),
+              style: TextStyle(
+                  fontSize: 15,
+                  color: Colors.green,
+                  fontWeight: FontWeight.w500),
             )
         ],
       )),
