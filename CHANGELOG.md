@@ -3,3 +3,4 @@
 ## [1.0.2] - add doc
 ## [1.0.3] - typo
 ## [1.0.4] - fix readme
+## [1.0.5] - update
