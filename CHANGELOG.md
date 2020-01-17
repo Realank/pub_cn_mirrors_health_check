@@ -5,3 +5,4 @@
 ## [1.0.4] - fix readme
 ## [1.0.5] - update
 ## [1.0.6] - update
+## [1.0.8] - update
